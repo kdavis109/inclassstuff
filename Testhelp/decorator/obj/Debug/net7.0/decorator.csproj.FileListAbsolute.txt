@@ -1,0 +1,14 @@
+D:\codes\spring2024\Testhelp\decorator\obj\Debug\net7.0\decorator.GeneratedMSBuildEditorConfig.editorconfig
+D:\codes\spring2024\Testhelp\decorator\obj\Debug\net7.0\decorator.AssemblyInfoInputs.cache
+D:\codes\spring2024\Testhelp\decorator\obj\Debug\net7.0\decorator.AssemblyInfo.cs
+D:\codes\spring2024\Testhelp\decorator\obj\Debug\net7.0\decorator.csproj.CoreCompileInputs.cache
+D:\codes\spring2024\Testhelp\decorator\bin\Debug\net7.0\decorator.exe
+D:\codes\spring2024\Testhelp\decorator\bin\Debug\net7.0\decorator.deps.json
+D:\codes\spring2024\Testhelp\decorator\bin\Debug\net7.0\decorator.runtimeconfig.json
+D:\codes\spring2024\Testhelp\decorator\bin\Debug\net7.0\decorator.dll
+D:\codes\spring2024\Testhelp\decorator\bin\Debug\net7.0\decorator.pdb
+D:\codes\spring2024\Testhelp\decorator\obj\Debug\net7.0\decorator.dll
+D:\codes\spring2024\Testhelp\decorator\obj\Debug\net7.0\refint\decorator.dll
+D:\codes\spring2024\Testhelp\decorator\obj\Debug\net7.0\decorator.pdb
+D:\codes\spring2024\Testhelp\decorator\obj\Debug\net7.0\decorator.genruntimeconfig.cache
+D:\codes\spring2024\Testhelp\decorator\obj\Debug\net7.0\ref\decorator.dll

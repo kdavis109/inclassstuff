@@ -1,0 +1,14 @@
+D:\codes\spring2024\Testhelp\strategy\obj\Debug\net7.0\strategy.GeneratedMSBuildEditorConfig.editorconfig
+D:\codes\spring2024\Testhelp\strategy\obj\Debug\net7.0\strategy.AssemblyInfoInputs.cache
+D:\codes\spring2024\Testhelp\strategy\obj\Debug\net7.0\strategy.AssemblyInfo.cs
+D:\codes\spring2024\Testhelp\strategy\obj\Debug\net7.0\strategy.csproj.CoreCompileInputs.cache
+D:\codes\spring2024\Testhelp\strategy\bin\Debug\net7.0\strategy.exe
+D:\codes\spring2024\Testhelp\strategy\bin\Debug\net7.0\strategy.deps.json
+D:\codes\spring2024\Testhelp\strategy\bin\Debug\net7.0\strategy.runtimeconfig.json
+D:\codes\spring2024\Testhelp\strategy\bin\Debug\net7.0\strategy.dll
+D:\codes\spring2024\Testhelp\strategy\bin\Debug\net7.0\strategy.pdb
+D:\codes\spring2024\Testhelp\strategy\obj\Debug\net7.0\strategy.dll
+D:\codes\spring2024\Testhelp\strategy\obj\Debug\net7.0\refint\strategy.dll
+D:\codes\spring2024\Testhelp\strategy\obj\Debug\net7.0\strategy.pdb
+D:\codes\spring2024\Testhelp\strategy\obj\Debug\net7.0\strategy.genruntimeconfig.cache
+D:\codes\spring2024\Testhelp\strategy\obj\Debug\net7.0\ref\strategy.dll

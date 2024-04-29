@@ -1,0 +1,14 @@
+D:\codes\spring2024\Testhelp\compund\obj\Debug\net7.0\compund.GeneratedMSBuildEditorConfig.editorconfig
+D:\codes\spring2024\Testhelp\compund\obj\Debug\net7.0\compund.AssemblyInfoInputs.cache
+D:\codes\spring2024\Testhelp\compund\obj\Debug\net7.0\compund.AssemblyInfo.cs
+D:\codes\spring2024\Testhelp\compund\obj\Debug\net7.0\compund.csproj.CoreCompileInputs.cache
+D:\codes\spring2024\Testhelp\compund\bin\Debug\net7.0\compund.exe
+D:\codes\spring2024\Testhelp\compund\bin\Debug\net7.0\compund.deps.json
+D:\codes\spring2024\Testhelp\compund\bin\Debug\net7.0\compund.runtimeconfig.json
+D:\codes\spring2024\Testhelp\compund\bin\Debug\net7.0\compund.dll
+D:\codes\spring2024\Testhelp\compund\bin\Debug\net7.0\compund.pdb
+D:\codes\spring2024\Testhelp\compund\obj\Debug\net7.0\compund.dll
+D:\codes\spring2024\Testhelp\compund\obj\Debug\net7.0\refint\compund.dll
+D:\codes\spring2024\Testhelp\compund\obj\Debug\net7.0\compund.pdb
+D:\codes\spring2024\Testhelp\compund\obj\Debug\net7.0\compund.genruntimeconfig.cache
+D:\codes\spring2024\Testhelp\compund\obj\Debug\net7.0\ref\compund.dll

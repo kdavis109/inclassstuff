@@ -1,0 +1,14 @@
+D:\codes\spring2024\Testhelp\adapter\bin\Debug\net7.0\adapter.exe
+D:\codes\spring2024\Testhelp\adapter\bin\Debug\net7.0\adapter.deps.json
+D:\codes\spring2024\Testhelp\adapter\bin\Debug\net7.0\adapter.runtimeconfig.json
+D:\codes\spring2024\Testhelp\adapter\bin\Debug\net7.0\adapter.dll
+D:\codes\spring2024\Testhelp\adapter\bin\Debug\net7.0\adapter.pdb
+D:\codes\spring2024\Testhelp\adapter\obj\Debug\net7.0\adapter.GeneratedMSBuildEditorConfig.editorconfig
+D:\codes\spring2024\Testhelp\adapter\obj\Debug\net7.0\adapter.AssemblyInfoInputs.cache
+D:\codes\spring2024\Testhelp\adapter\obj\Debug\net7.0\adapter.AssemblyInfo.cs
+D:\codes\spring2024\Testhelp\adapter\obj\Debug\net7.0\adapter.csproj.CoreCompileInputs.cache
+D:\codes\spring2024\Testhelp\adapter\obj\Debug\net7.0\adapter.dll
+D:\codes\spring2024\Testhelp\adapter\obj\Debug\net7.0\refint\adapter.dll
+D:\codes\spring2024\Testhelp\adapter\obj\Debug\net7.0\adapter.pdb
+D:\codes\spring2024\Testhelp\adapter\obj\Debug\net7.0\adapter.genruntimeconfig.cache
+D:\codes\spring2024\Testhelp\adapter\obj\Debug\net7.0\ref\adapter.dll
